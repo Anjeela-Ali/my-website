@@ -8,7 +8,7 @@ const HeroSection = () => {
                 backgroundImage: `url(${bgUrl})`
             }}>
                 {/* Hero Section Content */}
-                <div className=' w-[45%] text-white py-[70px] px-[30px] align-middle'>
+                <div className='w-[45%] text-white pt-[70px] px-[30px] align-middle'>
                     <h1 className='text-5xl font-bold py-2'>
                         Unleashing the Magic of
                         Easy Reading and More
@@ -18,7 +18,7 @@ const HeroSection = () => {
                         Screen Shader, Reading Ruler, OpenDyslexic Font, ePub Reader,
                         and more!
                     </h3>
-                    <button className='border py-2 px-20 rounded-full text-[#000214] bg-white my-12 mx-2 font-bold'>
+                    <button className='border py-2 px-20 rounded-full text-[#000214] bg-white mt-12 mx-2 font-bold'>
                         Get Started
                     </button>
                 </div>
